@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6594093958",
+    "project_id": "a-sw-movgr3-fehv",
+    "storage_bucket": "a-sw-movgr3-fehv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6594093958:android:bdb5999dedd0809442c207",
+        "android_client_info": {
+          "package_name": "com.example.moviles2026fehvgr3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6vpBNqg4dnUzWJ0Cq5oVlxRPSu-_3nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
