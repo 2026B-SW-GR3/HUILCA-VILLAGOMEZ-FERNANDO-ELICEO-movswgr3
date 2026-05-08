@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="main-page">
+    <ActionBar title="Taller Arquitectura" class="app-bar" />
+
+    <GridLayout id="contenedorPrincipal" rows="*, auto, *" class="page-shell" width="100%" height="100%">
+        <StackLayout row="1" class="hero-card" horizontalAlignment="center" verticalAlignment="middle">
+            <Label id="miEtiqueta" text="Portrait Mode - English" class="hero-title" textWrap="true" />
+        </StackLayout>
+    </GridLayout>
+</Page>

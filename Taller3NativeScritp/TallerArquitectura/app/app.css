@@ -1,0 +1,49 @@
+﻿@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+Page.main-page {
+  background-color: #0f172a;
+}
+
+ActionBar.app-bar {
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.page-shell {
+  padding: 32;
+  background-color: #0f172a;
+}
+
+.hero-card {
+  padding: 28 24;
+  border-radius: 24;
+  background-color: rgba(15, 23, 42, 0.78);
+}
+
+.hero-kicker {
+  color: #93c5fd;
+  text-transform: uppercase;
+  letter-spacing: 2;
+  font-size: 12;
+  margin-bottom: 10;
+}
+
+.hero-title {
+  color: #f8fafc;
+  font-size: 30;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 12;
+}
+
+.hero-subtitle {
+  color: #cbd5e1;
+  font-size: 15;
+  text-align: center;
+  line-height: 22;
+}
+
+Button.-primary {
+  font-size: 18;
+}
